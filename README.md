@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/98shah/leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/98shah/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/98shah/leetcode/tree/master/0875-koko-eating-bananas) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/98shah/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/98shah/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
